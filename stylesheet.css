@@ -6,6 +6,6 @@ td {
   font-size:100px;
 }
 h1 {
-  position:center;
-  font-size:300px;
+  margin: 0 100 0 100;
+  font-size:150px;
 }
