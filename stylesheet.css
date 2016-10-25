@@ -2,4 +2,6 @@ td {
   display:inline;
   background-color:#2DE023;
   border: 3px solid black;
+  margin:auto;
+  font-size:100px;
 }
