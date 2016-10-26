@@ -18,6 +18,9 @@ h1 {
 td {
  
   color:white;
+	position: relative;
+	bottom:300px;
+	
   
   
 }
@@ -36,4 +39,11 @@ a {
 }
 a:hover {
 	background-color:red;
+}
+img {
+	height: 300px;
+	border-radius:80px;
+	position:relative;
+	bottom:-150px
+	
 }
