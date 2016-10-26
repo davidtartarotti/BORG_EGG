@@ -16,8 +16,12 @@ h1 {
   color:#FFFFFF;
 }
 td {
-  text-align:center;
+ 
   color:white;
   
   
+}
+p {
+  background-color:white;
+  border-radius:6px;
 }
