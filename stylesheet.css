@@ -34,3 +34,6 @@ a {
 	width: 80px;
 	text-decoration:none;
 }
+a:hover {
+	background-color:red;
+}
