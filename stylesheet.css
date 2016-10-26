@@ -21,9 +21,9 @@ td {
   
   
 }
-p {
+a {
  
- border: 2px solid #000000;
+ 	border: 2px solid #000000;
 	float:left;
 	position:relative;
 	left: 900px;
@@ -32,4 +32,5 @@ p {
 	background-color: #FFFFFF;
 	height: 50px;
 	width: 80px;
+	text-decoration:none;
 }
