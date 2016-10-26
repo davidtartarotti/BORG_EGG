@@ -10,13 +10,9 @@ td {
   margin:100px 100px 100px 100px;
   font-size:100px;
 }
-h1 {
-  margin: 0 100 0 100;
-  font-size:150px;
+h1:hover {
+    color:blue;
+  
 }
-h1 {
-  position:center;
-}
-div:hover {
-  background-color:red;
-}
+
+
