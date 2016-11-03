@@ -55,6 +55,8 @@ img {
 	height: 300px;
 	border-radius:80px;
 	position:relative;
-	bottom:-150px
-	
+	bottom:-150pX,	
+}
+table {
+	border:2px solid black;
 }
