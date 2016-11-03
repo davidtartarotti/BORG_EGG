@@ -15,11 +15,9 @@ h1 {
   text-align:center;
   color:#FFFFFF;
 }
-td {
- 
-  color:white;
-	position: relative;
-	bottom:300px;
+div {
+	background-color:white;
+	border: 2px solid #000000;
 	
   
   
