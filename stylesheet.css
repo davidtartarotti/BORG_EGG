@@ -41,13 +41,16 @@ span{
 	float:left;
 	position:relative;
 	left: 900px;
-	bottom: -20px;
-	border-radius: 9px;
+	bottom: 90px;
+	border-radius: 5px;
 	background-color: #FFFFFF;
-	height: 50px;
+	height: 53px;
 	width: 80px;
 	text-decoration:none;
-
+}
+a{
+	text-decoration:none;
+	background-color:white;
 }
 img {
 	height: 300px;
