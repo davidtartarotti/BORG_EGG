@@ -61,8 +61,10 @@ td {
 	border:2px solid black;
 	font-size:30px;
 }
-a {
+div a {
+	
 	background-color:white;
 	text-decoration:none;
-	
+	color:black;
 }
+
