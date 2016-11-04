@@ -59,8 +59,9 @@ img {
 }
 td {
 	border:2px solid black;
+	font-size:30px;
 }
 a {
 	background-color:white;
-	font-size:30px
+	
 }
