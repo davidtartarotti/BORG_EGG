@@ -47,9 +47,7 @@ span{
 	height: 50px;
 	width: 80px;
 	text-decoration:none;
-}
-span:hover {
-	background-color:red;
+
 }
 img {
 	height: 300px;
