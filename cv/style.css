@@ -4,6 +4,7 @@
   background-color:#F8A7A7;
 }
 .left{
+  height:100%;
   width:30%;
   background-color:#CE1515;
   float:left;
