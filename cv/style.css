@@ -1,17 +1,17 @@
 #header{
   width: 100%;
   height:80px;
-  background-color:yellow;
+  background-color:#F8A7A7;
 }
 .left{
   width:30%;
-  background-color:green;
+  background-color:#CE1515;
   float:left;
   font-size:100px;
 }
 .right{
   width:70%;
-  background-color:lightgray;
+  background-color:white;
   float:right;
   font-size:100px;
 }
