@@ -29,7 +29,7 @@ a {
   text-decoration:none;
   font-family:Kursive;
 }
-@media screen  and (max-width :650px) {
+@media screen  and (max-width :400px) {
   .left, .right{
     width:100%;
   
