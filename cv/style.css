@@ -23,3 +23,8 @@
   font-family:16px;
   color:white;
 }
+@media screen  and (min-width :600px) {
+  .left, .right{
+    width:100%;
+  }
+}
