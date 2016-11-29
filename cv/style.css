@@ -27,7 +27,7 @@
 
 a {
   text-decoration:none;
-  font-family:Kursive;
+  color:white;
 }
 @media screen  and (max-width :400px) {
   .left, .right{
