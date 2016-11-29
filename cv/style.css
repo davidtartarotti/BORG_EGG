@@ -22,7 +22,12 @@
 .Kontakt {
   font-size:16px;
   color:white;
+ 
+}
+
+a {
   text-decoration:none;
+  font-family:Kursive;
 }
 @media screen  and (max-width :650px) {
   .left, .right{
