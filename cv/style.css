@@ -8,13 +8,13 @@
 }
 .left{
   height:1000px;
-  width:20%;
+  width:200px;
   background-color:#4C5FF4;
   float:left;
   font-size:18px;
 }
 .right{
-  width:80%;
+
   background-color:white;
   float:right;
   font-size:18px;
