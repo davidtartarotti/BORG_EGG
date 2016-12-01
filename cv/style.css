@@ -30,9 +30,13 @@ a {
   color:white;
 }
 #schule {
+  position: absolute;
+  left: 210px;
   
 }
-
+#laufbahn{
+  background-color:#4C5FF4;
+}
 
 
 @media screen  and (max-width :440px) {
