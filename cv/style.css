@@ -61,7 +61,17 @@ img {
   #header{
     font-size:300%
 }
+.ldiv-container1 {
+  float: both;
+  margin-left: 0px;
+  margin-top: 0px;
+}
 
+.div-container2 {
+  float: both;
+  margin-left: 0px;
+  margin-top: 0px;
+}
 
 
 }
