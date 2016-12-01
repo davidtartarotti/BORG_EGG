@@ -46,7 +46,11 @@ a {
   top:400px;
 }
 img {
-  
+  position: inherit;
+  height: 350px;
+  border: 10px solid #4C5FF4;
+  border-radius: 10px;
+  float: right;
 }
 @media screen  and (max-width :440px) {
   .left, .right{
