@@ -38,7 +38,8 @@ a {
   background-color:#4C5FF4;
 }
 #hobby{
- 
+ position: absolute;
+left: 210px;
 }
 
 @media screen  and (max-width :440px) {
