@@ -51,8 +51,8 @@ img {
   border: 10px solid #4C5FF4;
   border-radius: 10px;
   float: right;
-}
-@media screen  and (max-width :440px) {
+  
+}@media screen  and (max-width :470px) {
   .left, .right{
     width:100%;
    
@@ -61,7 +61,23 @@ img {
   #header{
     font-size:300%
 }
-
+  .left{
+    position:absolute;
+    bottom:-600px;
+    height:350px;
+  }
+ 
+  .right{
+    position:absolute;
+    top: :100px;
+    margin-left: -200px;
+   
+  }
+  #hobby{
+    margin-top:-70px
+  }
+  img{
+    display:none;
+  }
 
 }
-
