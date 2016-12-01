@@ -61,13 +61,13 @@ img {
   #header{
     font-size:300%
 }
-.ldiv-container1 {
+.right {
   float: both;
   margin-left: 0px;
   margin-top: 0px;
 }
 
-.div-container2 {
+.left {
   float: both;
   margin-left: 0px;
   margin-top: 0px;
